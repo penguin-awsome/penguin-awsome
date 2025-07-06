@@ -1,4 +1,4 @@
-#Hi There, I'm James!
+# Hi There, I'm James!
 
 I'm a highschooler from Canada who likes learning about coding and programming but still has a lot to learn.
 
